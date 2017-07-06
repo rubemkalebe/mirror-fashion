@@ -1,0 +1,26 @@
+/*
+ * Stylesheet para about.html
+ */
+
+body {
+	color: #333333; /* Very dark gray */
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+h1 {
+	background-image: url(../img/about-background.jpg);
+}
+
+h2 {
+	border-bottom: 2px solid #333333; /* Very dark gray */
+}
+
+figure {
+	background-color: #F2EDED; /* Light grayish red */
+	border: 1px solid #CCC; /* Light gray */
+	text-align: center;
+}
+
+figcaption {
+	font-style: italic;
+}
